@@ -1,36 +1,62 @@
-<h1 align="center">Hi there, I'm <span style="color:#5E81AC;">Ahmed</span> 👋</h1>
 
-### 👨‍💻 I'm Software Engineer & Developer 💻
-
-👨‍💻 I'm currently learning **Embedded systems**  
-💬 Ask me about **C/C++**, **MCU Interfacing**, **Communication Protocols**,**AUTOSAR**,**Real Time Operating System**
+<!-- 🔡 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=000000&center=true&vCenter=true&width=500&height=50&lines=Hi+there,+I'm+Ahmed+👋" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 👨‍💻 About Me
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+💡 I’m Software Engineer Interested in **Embedded Systems**. <br>
+🛠️ Currently diving into **RTOS**, and **AUTOSAR**.  
+⚙️ I love working with **C/C++**, **MCU**s, and **low-level interfacing**.  
+🚀 Always eager to learn new technologies and tools.  
 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat-square&logo=codeblocks)
-![Code Composer Studio](https://img.shields.io/badge/-Code%20Composer%20Studio-CC0000?style=flat-square&logo=texasinstruments)
-![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics)
-![STM32CubeMX](https://img.shields.io/badge/-STM32CubeMX-03234B?style=flat-square&logo=stmicroelectronics)
-![Microchip Studio](https://img.shields.io/badge/-Microchip%20Studio-CC0000?style=flat-square&logo=microchip)
+---
+
+### 🛠️ Languages & Tools I Use
+
+<!-- 🧠 Languages -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<!-- 🔧 Tools -->
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code::Blocks-333?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code_Composer-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microchip_Studio-DD0031?style=for-the-badge&logo=microchip&logoColor=white" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHeshamElshafey&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-hesham-abdelhamed-18a1b7304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Gmail](https://img.shields.io/badge/-ahmedalyelshafey@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedalyelshafey@gmail.com)
-
+<p align="center">
+  <a href="mailto:ahmedalyelshafey@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-hesham-abdelhamed-18a1b7304">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHeshamElshafey&layout=compact&theme=tokyonight)
+<p align="center">
+🌟 Thanks for visiting my profile! Have a great day. 🌟
+</p>
 
